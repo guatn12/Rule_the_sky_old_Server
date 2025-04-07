@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+ServerCore/ServerLibrary/x64/Debug/
+ServerCore/x64/Debug/DBAgent.ilk
+ServerCore/x64/Debug/DBAgent.pdb
+ServerCore/x64/Debug/
+ServerCore/DBAgent/x64/Debug/
+DummyClient/DummyClient/bin/Debug/
+*.ipch
+*.db

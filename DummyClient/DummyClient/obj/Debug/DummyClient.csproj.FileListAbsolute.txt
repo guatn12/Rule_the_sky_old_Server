@@ -1,0 +1,11 @@
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\bin\Debug\DummyClient.exe.config
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\bin\Debug\DummyClient.exe
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\bin\Debug\DummyClient.pdb
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.ChattingForm.resources
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.DummyClient.resources
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.LoginForm.resources
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.Properties.Resources.resources
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.csproj.GenerateResource.Cache
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.exe
+D:\study\serverProgram\RoseServer-master\RoseServer-master\DummyClient\DummyClient\obj\Debug\DummyClient.pdb
